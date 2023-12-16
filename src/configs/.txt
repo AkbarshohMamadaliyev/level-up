@@ -1,0 +1,1 @@
+Bu papkamizda loyixaga tegishli bo'lgan o'zgarmas configlar saqlanadi va istalgan joyda chaqirib ishlatiladi, masalan: { apiBaseUrl: "https://api.example.com"}
